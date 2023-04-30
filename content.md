@@ -131,8 +131,6 @@ Privacy & terms
 
 ## Sections
 
-文案内容 -> 页面组件 -> 规划分类
-
 - Logo + Navigation
 - Hero
 - Featured in
